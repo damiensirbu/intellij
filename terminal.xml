@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;sh -c &quot;/bin/xhere /bin/bash&quot;&quot;" />
+    <option name="myShellPath" value="&quot;C:\App\Cygwin64\bin\sh.exe -c &quot;/bin/xhere /bin/bash&quot;" />
     <option name="myTabName" value="Gygwin" />
   </component>
 </application>
