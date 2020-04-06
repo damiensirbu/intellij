@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.extenda.io" />
+          <token>dfc8df9bdf99df9ddf9fdfccdfc8df92df9bdf98df92df9fdf99df9adf98dfc8df9cdf9fdf9bdfcfdf99df9bdf9fdf9fdf9edfccdf9edfcbdfcfdf9cdf9bdfcbdf9fdf9fdf9edf9edfcbdf9ddfccdfc8</token>
+          <option name="name" value="https://sonar.extenda.io" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
