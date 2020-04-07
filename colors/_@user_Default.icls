@@ -4,10 +4,10 @@
     <property name="created">2020-04-07T03:37:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-04-07T16:16:25</property>
+    <property name="modified">2020-04-07T16:43:54</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Terminus (TTF) for Windows" />
+  <option name="CONSOLE_FONT_NAME" value="Terminus (TTF)" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
 </scheme>
