@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\App\Cygwin64\run_bash.bat" />
+    <option name="myShellPath" value="C:\App\Cmder\Cmder.exe" />
     <option name="myTabName" value="Gygwin" />
   </component>
 </application>
