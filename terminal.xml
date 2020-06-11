@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\App\Cygwin64\run_bash.bat" />
+    <option name="myShellPath" value="&quot;c:\App\cygwin64\bin\sh&quot; -lic 'cd &quot;${OLDPWD-.}&quot;; bash'" />
     <option name="myTabName" value="Gygwin" />
   </component>
 </application>
