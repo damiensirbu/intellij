@@ -5,4 +5,12 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.type.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="js.type.hints" />
+  </component>
 </application>
