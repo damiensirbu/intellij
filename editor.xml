@@ -13,4 +13,7 @@
     </option>
     <option name="lastViewedProviderKeyId" value="js.type.hints" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
 </application>
