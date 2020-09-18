@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="FindNext" />
   <action id="FindPrevious" />
   <action id="QuickFindNextAction">
@@ -12,5 +15,6 @@
   <action id="QuickFindPreviousAction">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
+  <action id="Replace" />
   <action id="Vcs.Push" />
 </keymap>
