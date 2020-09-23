@@ -3,12 +3,14 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="https://sonar.extenda.io" />
-          <token>dfc8df9bdf99df9ddf9fdfccdfc8df92df9bdf98df92df9fdf99df9adf98dfc8df9cdf9fdf9bdfcfdf99df9bdf9fdf9fdf9edfccdf9edfcbdfcfdf9cdf9bdfcbdf9fdf9fdf9edf9edfcbdf9ddfccdfc8</token>
-          <option name="name" value="https://sonar.extenda.io" />
-          <organizationKey>default-organization</organizationKey>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>dfccdf98dfcedf9bdf9cdfc9df92df9bdfc9dfcedf9bdf93df98df9ddfccdf9ddf98dfcedfcfdf93df9fdf9bdfcedfc9df92dfcedf9fdf9cdf9ddf99df9cdf9ddfc9df99dfcedf9adfc9df93df98df9e</token>
+          <option name="name" value="https://sonarcloud.io/" />
+          <organizationKey>extenda</organizationKey>
+          <enableNotifications>true</enableNotifications>
         </SonarQubeServer>
       </list>
     </option>
+    <rules />
   </component>
 </application>
