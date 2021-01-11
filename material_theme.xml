@@ -11,10 +11,11 @@
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="themedScrollbars" value="false" />
+    <option name="tabFontSizeEnabled" value="true" />
     <option name="highlightThickness" value="1" />
-    <option name="settingsSelectedTab" value="4" />
-    <option name="tabsHeight" value="12" />
+    <option name="tabsHeight" value="14" />
     <option name="accentColor" value="63a9f1" />
+    <option name="highlightColor" value="1ee9d8" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="74968c07:17604d9f19e:-8000" />
     <option name="version" value="5.5.0" />
