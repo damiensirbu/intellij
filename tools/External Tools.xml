@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" />
     </exec>
   </tool>
+  <tool name="IReport" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\App\Jaspersoft\iReport-5.6.0\bin\ireport.exe" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="C:/App/Jaspersoft/iReport-5.6.0/bin" />
+    </exec>
+  </tool>
 </toolSet>
