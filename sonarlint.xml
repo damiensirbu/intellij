@@ -1,13 +1,13 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonarcloud.io" />
-          <token>dfccdf98dfcedf9bdf9cdfc9df92df9bdfc9dfcedf9bdf93df98df9ddfccdf9ddf98dfcedfcfdf93df9fdf9bdfcedfc9df92dfcedf9fdf9cdf9ddf99df9cdf9ddfc9df99dfcedf9adfc9df93df98df9e</token>
-          <option name="name" value="https://sonarcloud.io/" />
+          <token>df9fdf98df98df92dfc8df98dfcedf92dfcbdfc9df9cdf93df9cdf9cdfccdf9adf9edf9ddf9edfc8dfcfdf93df9fdf9cdf9fdfccdf9edf93df9edf9fdfcedf99df93df9cdfccdf99df9ddf9cdfc8dfcf</token>
+          <option name="name" value="Extenda SonarCloud" />
           <organizationKey>extenda</organizationKey>
-          <enableNotifications>true</enableNotifications>
         </SonarQubeServer>
       </list>
     </option>
