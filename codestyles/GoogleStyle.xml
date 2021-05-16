@@ -7,7 +7,7 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="180" />
-  <option name="SOFT_MARGINS" value="180" />
+  <option name="SOFT_MARGINS" value="100" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
     <option name="LAYOUT_SETTINGS">
@@ -84,7 +84,6 @@
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="CSS">
     <indentOptions>
