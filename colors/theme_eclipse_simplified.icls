@@ -1,6 +1,6 @@
-<scheme name="theme_eclipse_damian" version="142" parent_scheme="Default">
+<scheme name="theme_eclipse_simplified" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2021-05-17T02:07:25</property>
+    <property name="created">2021-05-17T17:39:59</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.1.0.0</property>
     <property name="modified">2021-05-17T17:40:40</property>
@@ -76,7 +76,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_CODE">
