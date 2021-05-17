@@ -144,7 +144,17 @@
         </entry>
         <entry key="com.intellij.facetType">
           <value>
-            <FeaturePluginsList />
+            <FeaturePluginsList>
+              <option name="featureMap">
+                <map>
+                  <entry key="Spring">
+                    <value>
+                      <FeaturePluginData displayName="Spring" pluginName="Spring" pluginId="com.intellij.spring" bundled="true" />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FeaturePluginsList>
           </value>
         </entry>
         <entry key="com.intellij.packaging.artifacts.ArtifactType">
