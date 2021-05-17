@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="aes" type="PLAIN_TEXT" />
+      <mapping pattern="spring.handlers" type="Properties" />
+      <mapping pattern="spring.schemas" type="Properties" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="jrxml" approved="true" type="XML" />

@@ -1,0 +1,5 @@
+<keymap version="1" name="Eclipse_Simplified" parent="Eclipse">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+</keymap>
