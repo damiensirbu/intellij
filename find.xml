@@ -9,9 +9,9 @@
     <mask>*.mxml</mask>
     <mask>*.json</mask>
     <mask>*.jrxml</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
